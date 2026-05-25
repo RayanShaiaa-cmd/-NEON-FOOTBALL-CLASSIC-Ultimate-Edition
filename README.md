@@ -274,9 +274,7 @@ NEON-FOOTBALL-CLASSIC/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/neon-football-classic.git
-```
-
+https://github.com/RayanShaiaa-cmd/-NEON-FOOTBALL-CLASSIC-Ultimate-Edition.git
 ---
 
 ## 2. Navigate Into Project
@@ -290,7 +288,7 @@ cd neon-football-classic
 ## 3. Run The Game
 
 ```bash
-python main.py
+لعبه الكوره.py
 ```
 
 ---
@@ -382,7 +380,7 @@ This project is useful for learning:
 
 ## Main Interface
 
-![Neon Football Classic Main Interface](main_interface.png)
+![Neon Football Classic Main Interface](images/main_interface.png)
 
 > Futuristic neon-themed kickoff screen with dynamic arena visuals, score tracking system, and immersive cyber-style presentation.
 
@@ -390,7 +388,7 @@ This project is useful for learning:
 
 ## Stadium Settings Panel
 
-![Neon Football Classic Settings Interface](setting_interface.png)
+![Neon Football Classic Settings Interface](images/setting_interface.png)
 
 > Advanced in-game settings panel featuring AI controls, arena customization, gameplay tuning, sound management, and fullscreen/windowed display configuration.
 ---
