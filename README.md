@@ -260,11 +260,10 @@ tracer(0)
 ```bash
 NEON-FOOTBALL-CLASSIC/
 │
-├── main.py
-├── music.wav          # Optional background music
+├── لعبه الكورة.py  
 ├── README.md
 │
-└── assets/
+└── images/
 ```
 
 ---
